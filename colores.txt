@@ -1,0 +1,4 @@
+azul
+amarillo
+verde
+voleta
