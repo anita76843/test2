@@ -2,3 +2,6 @@ azul
 amarillo
 verde
 voleta
+negro 
+cafe
+rosado
